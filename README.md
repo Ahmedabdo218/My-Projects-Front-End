@@ -15,7 +15,11 @@ bash
 Copy
 Edit
 
+<<<<<<< HEAD
 git clone https://github.com/username/My-Projects.git
+=======
+git clone https://github.com/Ahmedabdo218/My-Projects-Front-End.git
+>>>>>>> 742cbac8f5e13a74ca09768de9dbdb54a71c89b6
 
 Open the index.html file in your browser
 Explore the projects and feel free to modify them yourself
